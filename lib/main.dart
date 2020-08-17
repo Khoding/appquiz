@@ -41,8 +41,8 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'question', 'score': 0},
         {'text': 'android', 'score': 0},
-        {'text': 'answer', 'score': 1},
-        {'text': 'material', 'score': 0}
+        {'text': 'answer', 'score': 0},
+        {'text': 'material', 'score': 1}
       ],
     },
   ];
